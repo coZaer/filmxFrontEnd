@@ -1,0 +1,6 @@
+{
+  "name": "Filmx",
+  "description": "Dark cinema-inspired movie catalog and studio management dashboard integrated with Spring Boot REST API and offline Demo Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
